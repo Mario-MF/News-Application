@@ -4,6 +4,8 @@ News Application
 - Bloc
 - SharedPref
 - Dark Mode
+
+
 ![new1](https://user-images.githubusercontent.com/72949361/119204863-ec76c700-ba96-11eb-95a1-8b5a07c4435e.png)
 ![news2](https://user-images.githubusercontent.com/72949361/119204869-eda7f400-ba96-11eb-9603-bf58d2c6106f.png)
 ![news3](https://user-images.githubusercontent.com/72949361/119204871-eed92100-ba96-11eb-9876-7fcd6d934d7a.png)
