@@ -1,6 +1,9 @@
 # newsapplication
-
-A new Flutter application.
+News Application
+- Apis
+- Bloc
+- SharedPref
+- Dark Mode
 
 ## Getting Started
 
